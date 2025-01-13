@@ -1,2 +1,2 @@
 Task 5: Writing a random number
-27992
+5000
